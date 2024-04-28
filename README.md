@@ -11,4 +11,5 @@ How it works:</br>
 <hr>
 - <code>hr_post_url</code> is for the <code>post_id</code></br>
 - <code>dc_webhook_url</code> is for the Discord webhook url</br>
+- The commands needs to be UTF-8 BASE64 encoded with before posting in the game. This is will bypass any HR symbolic restrictions. You can use this <a href="https://www.base64encode.org">website</a></br>
 Short demo in here: <a href="https://youtu.be/VfU3IVVuoPA">https://youtu.be/VfU3IVVuoPA</a>
